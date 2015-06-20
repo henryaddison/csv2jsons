@@ -1,0 +1,4 @@
+[package]
+name = "csv2jsons"
+version = "0.1.0"
+authors = ["Henry Addison <henry@dressipi.com>"]
