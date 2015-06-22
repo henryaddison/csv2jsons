@@ -2,3 +2,7 @@
 name = "csv2jsons"
 version = "0.1.0"
 authors = ["Henry Addison <henry@dressipi.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+csv = "0.14.2"
